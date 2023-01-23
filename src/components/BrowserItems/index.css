@@ -1,0 +1,55 @@
+.domain-logo-container {
+  display: flex;
+}
+.logo-img {
+  height: 25px;
+  width: 25px;
+}
+.list-container {
+  display: flex;
+}
+.btn {
+  background-color: #ffffff;
+  border: none;
+}
+.title-domain-delete-container {
+  display: flex;
+
+  justify-content: space-between;
+  width: 90%;
+}
+.title-para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-right: 12px;
+  font-size: 16px;
+  padding-top: 4px;
+}
+
+.delete-container {
+  margin-top: 12px;
+}
+
+.time-accessed {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding-top: 4px;
+}
+.domain-url-r-para {
+  padding-top: 10px;
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 400;
+  margin-right: 6px;
+  font-size: 12px;
+}
+.logo-url-con {
+  margin-top: 18px;
+  margin-right: 17px;
+  margin-left: 50px;
+}
+.list-items {
+  list-style-type: none;
+}
